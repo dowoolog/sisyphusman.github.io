@@ -18,14 +18,14 @@ category: ds
   
 #### 단일 연결 리스트
 
-![단일 연결 리스트](/assets/images/ds/linked-list-01.webp)
+![단일 연결 리스트]({{ '/assets/images/ds/linked-list-01.webp' | relative_url }})
 
 단일 연결 리스트는 각 노드가 자신의 데이터와 다음 노드를 가리키는 포인터를 가지는 구조이다
 
 &nbsp;
 
 #### 이중 연결 리스트  
-![이중 연결 리스트](/assets/images/ds/linked-list-02.webp)
+![이중 연결 리스트]({{ '/assets/images/ds/linked-list-02.webp' | relative_url }})
 
 각 노드가 자신의 이전 원소와 다음 원소의 주소를 둘 다 들고 있다
 
@@ -34,7 +34,7 @@ category: ds
 &nbsp;
 
 #### 원형 연결 리스트
-![원형 연결 리스트](/assets/images/ds/linked-list-03.webp)
+![원형 연결 리스트]({{ '/assets/images/ds/linked-list-03.webp' | relative_url }})
 
 마지막 노드의 포인터가 첫 번째 노드를 가리키는 구조이다
 

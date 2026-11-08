@@ -4,7 +4,7 @@ title: 레드 블랙 트리(Red Black Tree)
 category: ds
 ---
 
-![레드블랙트리](/assets/images/ds/Red-black_tree_1.png)
+![레드블랙트리]({{ '/assets/images/ds/Red-black_tree_1.png' | relative_url }})
 
 - 이진 탐색 트리(BST)의 한 종류
 
