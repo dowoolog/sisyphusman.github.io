@@ -5,7 +5,7 @@ category: os
 ---
 
 1. 프로세스와 스레드
-   ![프로세스_스레드](/assets/images/os/2025-09-04-thread_and_process-01.png)
+   ![프로세스_스레드]({{ '/assets/images/os/2025-09-04-thread_and_process-01.png' | relative_url }})
 
    - 프로세스(Process)
      - 운영체제에서 실행 중인 프로그램의 인스턴스
@@ -37,7 +37,7 @@ category: os
      - 블록(Block) : 프로세스가 자원 부족, I/O 입출력대기, 인터럽트 등 다른 사유에 의해 실행 상태에서 대기 상태로 전환되었다
      - 활성화(Wake-up) : 프로세스가 부족한 자원을 재할당 받았다는 등의 사유로 대기 상태에서 준비 상태로 전환되었다
 
-    ![프로세스의 상태전이](/assets/images/os/2025-09-04-thread_and_process-02.png)
+    ![프로세스의 상태전이]({{ '/assets/images/os/2025-09-04-thread_and_process-02.png' | relative_url }})
 
    &nbsp;
 
@@ -124,7 +124,7 @@ category: os
 
    - 간트 차트
      - 간트 차트(Gantt chart)는 프로젝트 일정관리를 위한 바 형태의 그래프
-     - ![RR 간트 차트](/assets/images/os/2025-09-04-thread_and_process-03.jpg)
+     - ![RR 간트 차트]({{ '/assets/images/os/2025-09-04-thread_and_process-03.jpg' | relative_url }})
 
    - 에이징(Aging)
      - 기다린 만큼 우선순위 높아짐
@@ -165,7 +165,7 @@ category: os
 
 # 레이스 컨디션(Race Condition)
 
-  ![레이스 컨디션](/assets/images/os/2025-09-04-thread_and_process-04.png)  
+  ![레이스 컨디션]({{ '/assets/images/os/2025-09-04-thread_and_process-04.png' | relative_url }})  
 
   &nbsp;
 
@@ -227,7 +227,7 @@ category: os
 
 # 데드락
 
-  ![레이스 컨디션](/assets/images/os/2025-09-04-thread_and_process-05.png)  
+  ![레이스 컨디션]({{ '/assets/images/os/2025-09-04-thread_and_process-05.png' | relative_url }})  
   
   &nbsp;
 

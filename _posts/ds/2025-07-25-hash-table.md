@@ -11,7 +11,7 @@ category: ds
 - [부하율과 리사이즈](#부하율load-factor과-리사이즈)  
 - [시간 복잡도](#시간-복잡도)  
 
-![해시 테이블-1](/assets/images/ds/hash_table-01.png)
+![해시 테이블-1]({{ '/assets/images/ds/hash_table-01.png' | relative_url }})
 
 해시 테이블은 데이터를 저장할 위치를 정하기 위하여 **해시 함수**(hash function)을 사용한다
 
@@ -31,7 +31,7 @@ category: ds
 
 #### 체이닝(Chaining)
 
-![해시 테이블-2](/assets/images/ds/hash-table-02.png)
+![해시 테이블-2]({{ '/assets/images/ds/hash-table-02.png' | relative_url }})
 
 각 인덱스마다 연결 리스트(혹은 동적 배열)을 이용하여 같은 해시값을 가진 항목들을 저장한다
 
@@ -69,7 +69,7 @@ find, erase 등 탐색을 할때는 dummy 칸을 만나도 계속 탐색을 해�
 
 insert를 할때는 dummy를 만나면 바로 삽입 할 수 있어야 한다
 
-![해쉬 테이블-3](/assets/images/ds/hash-table-03.png)
+![해쉬 테이블-3]({{ '/assets/images/ds/hash-table-03.png' | relative_url }})
 
 &nbsp;
 

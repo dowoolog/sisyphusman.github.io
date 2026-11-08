@@ -4,7 +4,7 @@ title: 재귀(Recursion)
 category: al
 ---
 
-![재귀 구글 검색](/assets/images/al/recursion-01.gif)
+![재귀 구글 검색]({{ '/assets/images/al/recursion-01.gif' | relative_url }})
 
 구글에서 recursion을 검색하면 뜨는 화면인데 버튼을 눌러도 같은 결과가 반복된다
 

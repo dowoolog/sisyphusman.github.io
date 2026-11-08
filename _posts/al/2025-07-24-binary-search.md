@@ -5,7 +5,7 @@ category: al
 ---
 #### 이진탐색 vs 선형검색 단순 비교
 
-![이분탐색 vs 선형검색](/assets/images/al/binary-search-01.gif)
+![이분탐색 vs 선형검색]({{ '/assets/images/al/binary-search-01.gif' | relative_url }})
 
 &nbsp;
 
@@ -40,7 +40,7 @@ def binary_search(arr, target, left, right):
 
 &nbsp;
 
-![코드리뷰-1](/assets/images/al/binary-search-03.png) 
+![코드리뷰-1]({{ '/assets/images/al/binary-search-03.png' | relative_url }}) 
 
 요소가 5개인 배열을 넘겨주었을때 배열 인덱스는 0~4이다
 
@@ -50,7 +50,7 @@ left는 왼쪽 경계, right는 오른쪽 경계라고 가정한다
 
 &nbsp;
 
-![코드리뷰-2](/assets/images/al/binary-search-04.png) 
+![코드리뷰-2]({{ '/assets/images/al/binary-search-04.png' | relative_url }}) 
 
 mid 값은 left와 right을 더한 값에 절반이다
 
@@ -79,4 +79,4 @@ mid가 타겟값이면 루프를 종료한다 (return True)
 
 #### 이진탐색이 worst case인 경우
 
-![이분탐색 나쁜 예](/assets/images/al/binary-search-02.gif)
+![이분탐색 나쁜 예]({{ '/assets/images/al/binary-search-02.gif' | relative_url }})

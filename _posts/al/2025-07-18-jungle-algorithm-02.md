@@ -6,7 +6,7 @@ category: al
 
 > 아래 내용은 경기대 배상원 교수님의 강의에서 가져왔음을 밝힙니다
 
-![Algorithms](/assets/images/al/jungle_lecture/alogrithms_03.jpg)
+![Algorithms]({{ '/assets/images/al/jungle_lecture/alogrithms_03.jpg' | relative_url }})
 
 #### 서론
 
@@ -79,7 +79,7 @@ Long Multiplication Algorithm
 
 - 구구단의 시간복잡도는? n자리 n자리의 곱의 시간복잡도는 = n제곱 혹은 n제곱의 비례한다
 
-![figure 0.1 Computing](/assets/images/al/jungle_lecture//algorithms_01.png)
+![figure 0.1 Computing]({{ '/assets/images/al/jungle_lecture//algorithms_01.png' | relative_url }})
 
 &nbsp;
 
@@ -245,7 +245,7 @@ Hanoi Tower 문제
 
 &nbsp;
 
-![figure 1.2 the tower of hanoi algorithm](/assets/images/al/jungle_lecture/algorithms_02.png)
+![figure 1.2 the tower of hanoi algorithm]({{ '/assets/images/al/jungle_lecture/algorithms_02.png' | relative_url }})
 
 - n-1개를 옭기는 것은
     - 원래 instance보다 작은 Hanoi tower문제의 instance -> subproblem

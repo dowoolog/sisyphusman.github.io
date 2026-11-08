@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sisyphusman.github.io/sitemap.xml
+Sitemap: https://dowoolog.github.io/sisyphusman.github.io/sitemap.xml

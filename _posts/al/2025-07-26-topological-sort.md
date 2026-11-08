@@ -4,7 +4,7 @@ title: 위상 정렬(Topological Sort)
 category: al
 ---
 
-![위상정렬](/assets/images/al/topological-sort-01.png)
+![위상정렬]({{ '/assets/images/al/topological-sort-01.png' | relative_url }})
 
 위상 정렬은 사이클이 없는 **방향 그래프**(Directed Acyclic Graph)에서 정점들의 **선후 관계**(의존성)를 지켜 순서를 정렬하는 알고리즘
 
@@ -106,13 +106,13 @@ topological_sort()
 
 &nbsp;
 
-![코드리뷰-1](/assets/images/al/topological-sort-02.png)
+![코드리뷰-1]({{ '/assets/images/al/topological-sort-02.png' | relative_url }})
 
 배열 : graph, indegree, edges, q, result
 
 &nbsp;
 
-![코드리뷰-2](/assets/images/al/topological-sort-03.png)
+![코드리뷰-2]({{ '/assets/images/al/topological-sort-03.png' | relative_url }})
 
 &nbsp;
 
